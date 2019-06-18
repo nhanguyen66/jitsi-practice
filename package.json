@@ -122,7 +122,7 @@
   },
   "engines": {
     "node": "10.16.0",
-    "npm": ">=6.0.0"
+    "npm": "6.9.0"
   },
   "license": "Apache-2.0",
   "scripts": {
@@ -135,7 +135,4 @@
   "browser": {
     "jQuery-Impromptu": "jQuery-Impromptu/src/jquery-impromptu.js"
   }
-  "scripts": {
-  "start": "node server.js"
-}
 }
