@@ -135,5 +135,7 @@
   "browser": {
     "jQuery-Impromptu": "jQuery-Impromptu/src/jquery-impromptu.js"
   }
-  "start": "node app.js"
+  "scripts": {
+  "start": "node server.js"
+}
 }
