@@ -128,7 +128,6 @@
   "scripts": {
     "lint": "eslint . && flow",
     "validate": "npm ls"
-    "start": " node webpack.config.js"
   },
   "pre-commit": [
     "lint"
