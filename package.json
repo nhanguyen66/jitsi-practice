@@ -126,6 +126,7 @@
   },
   "license": "Apache-2.0",
   "scripts": {
+    "start": "webpack.config.js",
     "lint": "eslint . && flow",
     "validate": "npm ls"
   },
