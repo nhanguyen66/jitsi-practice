@@ -126,10 +126,8 @@
   },
   "license": "Apache-2.0",
   "scripts": {
-    // "lint": "eslint . && flow",
-    // "validate": "npm ls"
-    "start": "node index.js",
-    "test": "node test.js"
+    "start" : "node index.js",
+    "test":  "node test.js"
   },
   "pre-commit": [
     "lint"
