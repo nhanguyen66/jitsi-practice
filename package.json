@@ -89,7 +89,6 @@
     "express":"*",
     "body-parser":"*",
     "ejs": "1.0.0"
-   }
   },
   "devDependencies": {
     "@babel/core": "7.1.2",
